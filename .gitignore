@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.db
+
+# Node
+node_modules/
+dist/
+
+# Gizli ayarlar (.env.example sablonu commit edilir)
+.env
+
+# Editor / isletim sistemi
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Egitim materyali (herkese acik depoya konmasi sana bagli, istersen bu satiri kaldir)
+KahveCell_Case_Analiz_Dokumani.docx
